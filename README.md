@@ -23,5 +23,5 @@ I got 8 quality issues and 2 tidiness issues which I worked
 -Dataframe 2: The p1,p2 and p3 columns are merged to get the most likely breed of dog. 
 
 ## Key Insights after Wrangling
--The correlation between number of retweets and number of favorite counts was positive.
--The bar plot for the 10 most common dog breeds were visualized using value_counts, index slicing. Golden_retriever was the most common dog (and by some margin)
+- The correlation between number of retweets and number of favorite counts was positive.
+- The bar plot for the 10 most common dog breeds were visualized using value_counts, index slicing. Golden_retriever was the most common dog (and by some margin)
