@@ -3,7 +3,7 @@
 
 ## Dataset
 This is a project completed in partial fulfillment of the Udacity Data Analysis Nanodegree program.
-> Two dataset called (twitter_enhanced.csv)[https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv] and (image_predictions.tsv)[https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv] were be downloaded, with the latter being downloaded programmatically. 
+> Two dataset called [twitter_enhanced.csv](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv) and [image_predictions.tsv](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv) were be downloaded, with the latter being downloaded programmatically. 
 > The third dataset involves querying Twitter's API and getting tweet data using Tweet ID from the first dataset.
 
 ## Summary of Data Wrangling
