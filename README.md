@@ -1,4 +1,4 @@
-# Udacity-Data-Wrangling
+# Twitter Scraping
 ## by Obi-Okonkwo Chisom
 
 ## Dataset
