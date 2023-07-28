@@ -1,4 +1,4 @@
-# Twitter Scraping
+# Twitter API Scraping
 ## by Obi-Okonkwo Chisom
 
 ## Dataset
